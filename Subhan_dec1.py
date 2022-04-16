@@ -1,6 +1,5 @@
-# DECOMPILED BY BLACK-DEVIL-HACKER
-# DONT MESS WITH ME 
-# I DONT SAY ANYTHING DOESNT MEAN I DONT KNOW
+# SUBHAN KHAN BAP SEY PANGA NAHI
+#SUBHAN KA BAP SHANKAR-XD ENTERSSSSSSS
 import os, time, requests, datetime, random,multiprocessing.pool, getpass, json, threading, sys, uuid, shutil, zlib, base64
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
